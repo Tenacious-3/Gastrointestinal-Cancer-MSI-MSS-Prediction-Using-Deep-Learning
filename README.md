@@ -11,8 +11,10 @@
 
 ## Screenshots
 <p align="center">
-  <b><img src="./img/Screenshot-1.png"></b><br>
-  <b>Page-1</b>
-  <b><img src="./img/Screenshot-2.png"></b>
-  <b>Page-2</b>
+  <b><img src="images/Harakick.jpg"></b><br>
+  <b>Haralick</b>
+  <b><img src="images/HuMoments"></b>
+  <b>HuMoments</b>
+  <b><img src="images/Wavelets Transformations"></b>
+  <b>Wavelets</b>
 </p>
