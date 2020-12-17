@@ -9,6 +9,9 @@
 * [Technologies](#technologies)
 * [Dataset](#Dataset)
 
+## Dataset
+Link: https://zenodo.org/record/2530835#.X9tyeNgzZhE
+
 ## Screenshots
 <p align="center">
   <b><img src="images/Harakick.jpg"></b><br>
