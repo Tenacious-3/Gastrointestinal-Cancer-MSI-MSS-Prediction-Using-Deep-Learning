@@ -5,8 +5,8 @@
 
 
 ## Table of contents
-* [Screenshots](#screenshots)
 * [Dataset](#Dataset)
+* [Screenshots](#screenshots)
 
 ## Dataset
 Link: https://zenodo.org/record/2530835#.X9tyeNgzZhE
