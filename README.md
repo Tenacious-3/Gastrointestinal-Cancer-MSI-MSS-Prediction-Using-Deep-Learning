@@ -9,6 +9,7 @@ Deep Learning has solved many complex tasks in the Medical Analysis. Developed a
 * [Technologies](#technologies)
 * [Dataset](#Dataset)
 
+## Screenshots
 <p align="center">
   <b><img src="./img/Screenshot-1.png"></b><br>
   <b>Page-1</b>
