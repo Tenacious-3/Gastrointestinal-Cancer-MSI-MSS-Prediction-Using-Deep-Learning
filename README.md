@@ -14,6 +14,6 @@ Link: https://zenodo.org/record/2530835#.X9tyeNgzZhE
 
 ## Screenshots
 <p align="center">
-<table><tr><img src="images/Harakick.jpg"></td><td><img src="images/HuMoments.jpg"></td><td><img src="images/Wavelet.jpg"></td></tr></table>
+<table><tr><img src="images/Harakick.jpg"></td><td><img src="images/Wavelet.jpg"></td><td><img src="images/HuMoments.jpg"></td></tr></table>
   
 </p>
