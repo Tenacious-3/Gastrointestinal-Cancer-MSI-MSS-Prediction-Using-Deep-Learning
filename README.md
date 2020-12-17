@@ -15,6 +15,6 @@
   <b>Haralick</b>
   <b><img src="images/HuMoments"></b>
   <b>HuMoments</b>
-  <b><img src="images/Wavelets Transformations"></b>
+  <b><img src="images/Wavelets transformations"></b>
   <b>Wavelets</b>
 </p>
