@@ -12,9 +12,9 @@
 ## Screenshots
 <p align="center">
   <b><img src="images/Harakick.jpg"></b><br>
-  <b>Haralick</b>
-  <b><img src="images/HuMoments"></b>
-  <b>HuMoments</b>
-  <b><img src="images/Wavelets transformations"></b>
-  <b>Wavelets</b>
+  <b>Haralick</b><br>
+  <b><img src="images/HuMoments.jpg"></b><br>
+  <b>HuMoments</b><br>
+  <b><img src="images/Wavelets transformations.jpg"></b><br>
+  <b>Wavelets</b><br>
 </p>
