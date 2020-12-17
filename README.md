@@ -6,7 +6,6 @@
 
 ## Table of contents
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
 * [Dataset](#Dataset)
 
 ## Dataset
